@@ -1,3 +1,5 @@
+# created script using Cursor AI
+#
 #Requires -Version 5.1
 <#
 .SYNOPSIS
